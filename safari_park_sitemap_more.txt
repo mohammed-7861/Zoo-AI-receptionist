@@ -1,0 +1,84 @@
+======================================================================
+SAN DIEGO SAFARI PARK - EXTENDED SITEMAP
+Additional sites and resources for voice agent knowledge base
+Generated: 2026-04-10T15:19:17.326192
+======================================================================
+
+======================================================================
+SECTION 1: ADDITIONAL MAPPED SITES
+======================================================================
+These sites were mapped using the Firecrawl REST API
+(POST to https://api.firecrawl.dev/v1/map)
+
+=== events.sandiegozoo.org URLS ===
+Source: https://events.sandiegozoo.org/
+Total URLs found: 30
+
+https://events.sandiegozoo.org
+https://events.sandiegozoo.org/about-us
+https://events.sandiegozoo.org/accessibility-statement
+https://events.sandiegozoo.org/celebrations
+https://events.sandiegozoo.org/contact-us
+https://events.sandiegozoo.org/corporate-events
+https://events.sandiegozoo.org/home
+https://events.sandiegozoo.org/picnics
+https://events.sandiegozoo.org/sites/default/files/2019-04/6018_Park_EventMap_Hunte.pdf
+https://events.sandiegozoo.org/sites/default/files/2019-04/6018_Park_EventMap_Mombasa.pdf
+https://events.sandiegozoo.org/sites/default/files/2019-04/6018_Park_EventMap_Samburu.pdf
+https://events.sandiegozoo.org/sites/default/files/2019-04/6018_Park_EventMap_kijamii.pdf
+https://events.sandiegozoo.org/sites/default/files/2019-04/6018_Park_EventMap_tiger-longhouse.pdf
+https://events.sandiegozoo.org/sites/default/files/2019-04/6018_Zoo_EventMap_Treetops.pdf
+https://events.sandiegozoo.org/sites/default/files/2019-04/6018_Zoo_EventMap_Zoofari.pdf
+https://events.sandiegozoo.org/sites/default/files/2019-04/6018_Zoo_EventMap_rondavel.pdf
+https://events.sandiegozoo.org/teambuilding
+https://events.sandiegozoo.org/venues
+https://events.sandiegozoo.org/venues/hunte-nairobi-pavilion
+https://events.sandiegozoo.org/venues/kijamii-overlook
+https://events.sandiegozoo.org/venues/mawazo-terrace
+https://events.sandiegozoo.org/venues/mkutano-house
+https://events.sandiegozoo.org/venues/mombasa-island-pavilion
+https://events.sandiegozoo.org/venues/rondavel
+https://events.sandiegozoo.org/venues/sabertooth-grill-elephant-odyssey
+https://events.sandiegozoo.org/venues/sambutan-longhouse-tiger-trail
+https://events.sandiegozoo.org/venues/sydneys-australian-outback
+https://events.sandiegozoo.org/venues/treetops-room-decks
+https://events.sandiegozoo.org/venues/woolshed-walkabout-australia
+https://events.sandiegozoo.org/venues/zoofari-party-area
+
+=== zoodeals.com URLS ===
+Source: https://zoodeals.com/site/welcome/4952/places-to-stay
+Total URLs found: 1
+
+https://zoodeals.com/site/welcome/4952/places-to-stay
+
+======================================================================
+SECTION 2: SINGLE PAGES — SCRAPE ONLY (NO MAPPING NEEDED)
+======================================================================
+These are single pages, not sites to map. Scrape them directly.
+
+=== sandiegozoowildlifealliance.org — MEMBERSHIP PAGE ===
+https://sandiegozoowildlifealliance.org/membership
+
+NOTE: Membership info — useful for agent to answer questions 
+about membership pricing and benefits. Do not map, scrape page directly.
+
+=== sandiegozoowildlifealliance.org — ABOUT PAGE ===
+https://sandiegozoowildlifealliance.org/about-us/about-san-diego-zoo-wildlife-alliance
+
+NOTE: Mission and overview of San Diego Zoo Wildlife Alliance 
+(parent org of Safari Park and Zoo). Do not map, scrape directly.
+
+======================================================================
+SECTION 3: AGENT BEHAVIOR NOTES
+======================================================================
+
+- zoodeals.com: If user asks about places to stay near Safari Park, 
+  direct them to zoodeals.com/site/welcome/4952/places-to-stay 
+  or offer to transfer to a reservations agent. Do not attempt to book.
+
+- events.sandiegozoo.org: If user asks about events or booking, 
+  direct them to events.sandiegozoo.org or transfer to a live agent.
+
+- membership: If user asks about membership, direct them to 
+  sandiegozoowildlifealliance.org/membership
+
