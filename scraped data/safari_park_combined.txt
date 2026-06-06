@@ -1861,7 +1861,7 @@ GARDENS
 
 # BONSAI PAVILION
 
-Discover a world of tiny trees! Some stand straight and regal, their leafy canopies shading the ground below. Some show signs of age and weather, gnarled trunks twisted and bent by the wind. Others display graceful sprays of springtime flowers. But the size of these extraordinary trees is measured in inches, rather than feet.   Bonsai, which is a combination of two Japanese words meaning "tree planted in a tray" has become a popular hobby and art form among gardeners since the late 1880s, when the miniature plants were first displayed outside of China and Japan.
+Discover a world of tiny trees! Some stand straight and regal, their leafy canopies shading the ground below. Some show signs of age and weather, gnarled trunks twisted and bent by the wind. Others display graceful sprays of springtime flowers. But the size of these extraordinary trees is measured in inches, rather than feet. Bonsai, which is a combination of two Japanese words meaning "tree planted in a tray" has become a popular hobby and art form among gardeners since the late 1880s, when the miniature plants were first displayed outside of China and Japan.
 
 The Safari Park's Bonsai Pavilion is a striking showcase for this extraordinary living art. Enjoy the bonsai displays in a tranquil surrounding, with benches that invite you to rest and experience the sense of timelessness that only an ancient art like bonsai can inspire.
 
@@ -20444,7 +20444,7 @@ State/Province
 - American Samoa
 - Arizona
 - Arkansas
-- Armed Forces (Canada, Europe, Africa, or Middle East
+- Armed Forces (Canada, Europe, Africa, or Middle East)
 - Armed Forces Americas
 - Armed Forces Pacific
 - California
